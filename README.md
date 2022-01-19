@@ -1,0 +1,2 @@
+# Patika.dev
+Patikadaki Ödevler
