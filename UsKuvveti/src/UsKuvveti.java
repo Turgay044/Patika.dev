@@ -13,7 +13,7 @@ public class UsKuvveti {
             b = Math.pow(4,i);
             c = Math.pow( 5,i );
             if (b<a){
-                System.out.print(b + ", ");
+                System.out.print(b + ",\t");
             }
             else
                 break;
