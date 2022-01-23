@@ -22,7 +22,7 @@ public class YildizlarlaElmas {
             for (int j = 1; j <= l; j++) {
                 System.out.print( " " );
             }
-            for (int k = 1; k<=(2*a)-(2*l)-1; k++){
+            for (int k = 1; k<=2*(a-l)-1; k++){
                 System.out.print("*");
             }
             System.out.println();
