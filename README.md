@@ -1,2 +1,2 @@
-# Patika.dev
-Patikadaki Ödevler
+# Kurs Ödevleri
+Kurslarda verilen ödevler
